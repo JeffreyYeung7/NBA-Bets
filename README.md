@@ -12,4 +12,4 @@ In that case, change the code or the file locations to make the code work.
 
 
 Some of the code's formatting may be messed up when viewed from GitHub. The code will
-still work but it is best viewed in JupyerNotebook for cleaner formatting appearances.
+still work but it is best viewed in JupyterNotebook for cleaner formatting appearances.
