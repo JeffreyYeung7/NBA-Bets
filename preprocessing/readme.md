@@ -1,0 +1,1 @@
+This folder contains all the necessary files used for preprocessing purposes for our project.
