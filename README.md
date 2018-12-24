@@ -1,17 +1,9 @@
-ECE-143-Group-19
+NBA Player Stats, Team Win Rates, and Betting Odds
 
-NBA Player Stats and Betting Odds
-
-In this project, we scraped data from the web to use to train our model in predicting NBA
-teams' win rates, as well as the optimal betting decisions based on actual betting odds
-provided by betting sites in combination with our predictions.
-
-
-To run the code, you must have several modules installed:
-torchvision,
-BeautifulSoup,
-selenium,
-requests
+In this project, data is scraped from the NBA stats websites and betting odds websites.
+NBA stats are used to predict teams' win rates for any given match, and these win rates
+are used in conjunction with the betting odds to recommend the optimal team to bet on
+for any given game.
 
 
 Depending on how you decide to download and save the csv data files,
